@@ -1,0 +1,5 @@
+google-generativeai==0.3.2
+psycopg2-binary==2.9.7
+pypdf==3.17.0
+flotorch-core
+python-dotenv==1.0.0
